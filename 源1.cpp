@@ -40,7 +40,7 @@
 //#include <string.h>
 //int main()
 //{
-//	int input = 10;
+//	int input = 100;
 //		printf("面试成功会成功吗？");
 //	scanf("%d", &input);
 //	if (input == 1)
