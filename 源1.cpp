@@ -14,7 +14,7 @@
 //	male,
 //	female,
 //	secret,
-//};
+//}
 //int main()
 //{
 //	enum sex s = male;
