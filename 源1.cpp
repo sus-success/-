@@ -1,6 +1,6 @@
 ﻿#define _CRT_SECURE_NO_WARNINGS 1
 #include <stdio.h>
-//#define mac 100000
+//#define mac 1
 //int main()
 //{
 //	int n =mac;
